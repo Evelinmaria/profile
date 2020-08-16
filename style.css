@@ -1,0 +1,27 @@
+body{
+  background-color:Azure;
+  background-image:url("https://cdn.pixabay.com/photo/2018/02/08/02/06/background-3138516_960_720.jpg");
+  background-image:no-repeat;
+ }
+#mainhead{
+  text-align:center;
+}
+.topdiv{
+  border-top-style:double;
+  border-bottom-style:double;
+  text-align:center;
+  font-family:Times New Roman;
+  font-size:1.4em;
+  
+}
+#mainpara{
+  font-weight:bold;
+  font-size:1.4em;
+}
+.secdiv{
+  font-family:Times New Roman;
+  font-size:1.2em;
+  text-align:center;
+  border-top-style:double;
+  border-bottom-style:double;
+}
